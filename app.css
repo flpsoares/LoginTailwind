@@ -1,0 +1,12 @@
+*, *::before, *::after{
+    outline: none !important;
+}
+
+#conteudo{
+    height: 500px;
+    width: 700px;
+}
+
+input::placeholder {
+    color: white;
+  }
